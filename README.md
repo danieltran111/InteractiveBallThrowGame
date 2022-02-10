@@ -1,7 +1,7 @@
 # MOD 5 - Project Team 30: Ball On the Wall
 ![Game Background](/src/img/newbg.jpg)
 
-#Description:
+# Description:
 - This is an interactive game we made for the final project of module 05 - Computer Architecture and Organization, University of Twente
 - Players can throw a ball to projector and score will be calculated according to the hit-ed objects.
 - My responsibility in this project is implement the ball hit detector, transfrom perspective and record the position on hit as well as increase/ decrease of the score.
